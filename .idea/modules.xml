@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Cloud.iml" filepath="$PROJECT_DIR$/Cloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configServerEureka/ConfigServerEureka.iml" filepath="$PROJECT_DIR$/configServerEureka/ConfigServerEureka.iml" />
     </modules>
   </component>
 </project>

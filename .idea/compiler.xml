@@ -7,15 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="appuser" />
-        <module name="configserver" />
+        <module name="configServerEureka" />
+        <module name="ConfigServerEureka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="app" target="1.5" />
       <module name="appuser" target="1.5" />
       <module name="Cloud" target="1.5" />
+      <module name="cloudeurekaserver" target="1.5" />
       <module name="computeservice" target="1.8" />
       <module name="configserver" target="1.5" />
+      <module name="configServerEureka" target="1.5" />
+      <module name="ConfigServerEureka" target="1.5" />
       <module name="eurekafeign" target="1.6" />
       <module name="eurekaserver" target="1.8" />
       <module name="sconfigserver" target="1.5" />

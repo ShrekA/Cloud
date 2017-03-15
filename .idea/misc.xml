@@ -9,7 +9,9 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/app/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudeurekaserver/pom.xml" />
         <option value="$PROJECT_DIR$/computeservice/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
         <option value="$PROJECT_DIR$/eurekafeign/pom.xml" />
         <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
         <option value="$PROJECT_DIR$/sconfigserver/pom.xml" />
