@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="appuser" />
+        <module name="configserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app" target="1.5" />
+      <module name="appuser" target="1.5" />
+      <module name="Cloud" target="1.5" />
+      <module name="computeservice" target="1.8" />
+      <module name="configserver" target="1.5" />
+      <module name="eurekafeign" target="1.6" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="sconfigserver" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
